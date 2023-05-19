@@ -43,3 +43,5 @@
 - <a href="https://guco.tistory.com/165">02_safe_area(안전지대)</a>
 - <a href="https://guco.tistory.com/168">03_string_number_English(숫자 문자열과 영단어)</a>
 - <a href="https://guco.tistory.com/167">04_find_prime_number(소수 찾기)</a>
+- <a href="https://guco.tistory.com/171">05_eating_competition(푸드 파이트 대회)</a>
+- <a href="https://guco.tistory.com/172">06_fruit_seller(과일장수)</a>
