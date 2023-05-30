@@ -2,6 +2,7 @@
 알고리즘 문제 풀이
 
 ## 📆 Week1
+- [02_find_mode(최빈값 구하기)]([링크주소](https://guco.tistory.com/54)){: target="_blank"}
 - <a href="https://guco.tistory.com/54" target="_blank">02_find_mode(최빈값 구하기)</a>
 - <a href="https://guco.tistory.com/55" target="_blank">03_array_twice(배열 두배 만들기)</a>
 - <a href="https://guco.tistory.com/57" target="_blank">04_array_reverse(배열 뒤집기)</a>
