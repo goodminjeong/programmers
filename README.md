@@ -50,3 +50,7 @@
 - <a href="https://guco.tistory.com/189">01_push_keypad(키패드 누르기)</a>
 - <a href="https://guco.tistory.com/196">02_make_prime_number(소수 만들기)</a>
 - <a href="https://guco.tistory.com/200">03_multiplication_of_matrix(행렬의 곱셈)</a>
+- <a href="https://guco.tistory.com/206">04_lotto_ranking(로또의 최고 순위와 최저 순위)</a>
+
+## 📆 Week9
+- <a href="https://guco.tistory.com/212">01_parallel(평행)</a>
