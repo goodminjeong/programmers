@@ -54,3 +54,4 @@
 
 ## 📆 Week9
 - <a href="https://guco.tistory.com/212">01_parallel(평행)</a>
+- <a href="https://guco.tistory.com/216">02_sort_string_as_I_want(문자열 내 마음대로 정렬하기)</a>
