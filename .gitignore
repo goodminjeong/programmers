@@ -1,2 +1,3 @@
 .vscode/
 prac.py
+__pycache__/
