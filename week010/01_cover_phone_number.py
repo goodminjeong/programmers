@@ -33,6 +33,6 @@ def solution3(phone_number):
     return answer
 
 
-print(solution1("15898354856846665266"))
-print(solution2("15898354856846665266"))
-print(solution3("15898354856846665266"))
+solution1("15898354856846665266")
+solution2("15898354856846665266")
+solution3("15898354856846665266")
