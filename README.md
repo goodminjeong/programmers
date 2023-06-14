@@ -60,3 +60,4 @@
 ## 📆 week010
 - <a href="https://guco.tistory.com/224">01_cover_phone_number(핸드폰 번호 가리기)</a>
 - <a href="https://guco.tistory.com/226">02_sum_of_two_integers(두 정수 사이의 합)</a>
+- <a href="https://guco.tistory.com/228">03_handling_string_in_basic(문자열 다루기 기본)</a>
