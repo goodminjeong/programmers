@@ -63,3 +63,6 @@
 - <a href="https://guco.tistory.com/228">03_handling_string_in_basic(문자열 다루기 기본)</a>
 - <a href="https://guco.tistory.com/233">04_sum_number_not_in_numbers(없는 숫자 더하기)</a>
 - <a href="https://guco.tistory.com/237">05_n_numbers_spaced_by_x(x만큼 간격이 있는 n개의 숫자)</a>
+
+## 📆 week011
+- <a href="https://guco.tistory.com/240">01_hashard_number(하샤드 수)</a>
