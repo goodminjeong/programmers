@@ -68,3 +68,4 @@
 - <a href="https://guco.tistory.com/240">01_hashard_number(하샤드 수)</a>
 - <a href="https://guco.tistory.com/245">02_discrete_array_of_numbers(나누어 떨어지는 숫자 배열)</a>
 - <a href="https://guco.tistory.com/246">03_addition_of_matrix(행렬의 덧셈)</a>
+- <a href="https://guco.tistory.com/250">04_kth_number(K번째수)</a>
