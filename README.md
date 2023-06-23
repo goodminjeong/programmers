@@ -69,3 +69,5 @@
 - <a href="https://guco.tistory.com/245">02_discrete_array_of_numbers(나누어 떨어지는 숫자 배열)</a>
 - <a href="https://guco.tistory.com/246">03_addition_of_matrix(행렬의 덧셈)</a>
 - <a href="https://guco.tistory.com/250">04_kth_number(K번째수)</a>
+- <a href="https://guco.tistory.com/256">05_Colatz_conjecture(콜라츠 추측)</a>
+- <a href="https://guco.tistory.com/257">06_calculate_shortfall(부족한 금액 계산하기)</a>
