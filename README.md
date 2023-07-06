@@ -71,3 +71,6 @@
 - <a href="https://guco.tistory.com/250">04_kth_number(K번째수)</a>
 - <a href="https://guco.tistory.com/256">05_Colatz_conjecture(콜라츠 추측)</a>
 - <a href="https://guco.tistory.com/257">06_calculate_shortfall(부족한 금액 계산하기)</a>
+
+## 📆 week012
+- <a href="https://guco.tistory.com/273">01_GCD_&_LCM(최대공약수와 최소공배수)</a>
