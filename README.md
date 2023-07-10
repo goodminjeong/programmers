@@ -74,3 +74,4 @@
 
 ## 📆 week012
 - <a href="https://guco.tistory.com/273">01_GCD_&_LCM(최대공약수와 최소공배수)</a>
+- <a href="https://guco.tistory.com/277">02_ternary_flip(3진법 뒤집기)</a>
