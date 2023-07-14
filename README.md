@@ -77,3 +77,5 @@
 - <a href="https://guco.tistory.com/277">02_ternary_flip(3진법 뒤집기)</a>
 - <a href="https://guco.tistory.com/282">03_budget(예산)</a>
 - <a href="https://guco.tistory.com/283">04_trio(삼총사)</a>
+- <a href="https://guco.tistory.com/285">05_check_personality_type(성격 유형 검사하기)</a>
+- <a href="https://guco.tistory.com/286">06_runner_who_failed_to_finish(완주하지 못한 선수)</a>
