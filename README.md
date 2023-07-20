@@ -79,3 +79,6 @@
 - <a href="https://guco.tistory.com/283">04_trio(삼총사)</a>
 - <a href="https://guco.tistory.com/285">05_check_personality_type(성격 유형 검사하기)</a>
 - <a href="https://guco.tistory.com/286">06_runner_who_failed_to_finish(완주하지 못한 선수)</a>
+
+## 📆 week013
+- <a href="https://guco.tistory.com/289">01_recommendation_new_ID(신규 아이디 추천)</a>
