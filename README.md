@@ -89,3 +89,4 @@
 ## 📆 week015
 - <a href="https://guco.tistory.com/301">01_validity_of_privacy(개인정보 수집 유효기간)</a>
 - <a href="https://guco.tistory.com/307">02_workout_clothes(체육복)</a>
+- <a href="https://guco.tistory.com/309">03_expression_of_numbers(숫자의 표현)</a>
