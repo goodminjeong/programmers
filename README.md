@@ -92,3 +92,7 @@
 - <a href="https://guco.tistory.com/309">03_expression_of_numbers(숫자의 표현)</a>
 - <a href="https://guco.tistory.com/310">04_make_JadenCase(JadenCase 문자열 만들기)</a>
 - <a href="https://guco.tistory.com/311">05_receive_ report(신고 결과 받기)</a>
+
+## 📆 week016
+- <a href="https://guco.tistory.com/318">01_correct_parentheses(올바른 괄호)</a>
+- <a href="https://guco.tistory.com/319">02_functional_development(기능개발)</a>
