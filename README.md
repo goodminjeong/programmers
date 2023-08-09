@@ -96,3 +96,4 @@
 ## 📆 week016
 - <a href="https://guco.tistory.com/318">01_correct_parentheses(올바른 괄호)</a>
 - <a href="https://guco.tistory.com/319">02_functional_development(기능개발)</a>
+- <a href="https://guco.tistory.com/321">03_calculate_parking_fee(주차 요금 계산)</a>
